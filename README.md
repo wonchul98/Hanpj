@@ -1,5 +1,5 @@
 # flask-salary-predictor
-This is project predicts the salary of the employee based on the experience.aaaaaaaaaaaaaaaaz
+This is project predicts the salary of the employee based on the experience.
 
 # Model
 model.py trains and saves the model to the disk.
