@@ -1,4 +1,4 @@
-# flask-salary-predictor
+# flask-피싱사이트 탐지 AI모델
 This is project predicts the salary of the employee based on the experience.
 
 # Model
