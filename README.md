@@ -1,14 +1,16 @@
-# flask-피싱사이트 탐지 AI모델
-This is project predicts the salary of the employee based on the experience.
+# 한이음 프로젝트
 
-# Model
-model.py trains and saves the model to the disk.
-model.pkb the pickle model 
+머신러닝 기반 피싱사이트 탐지 프로젝트입니다.
 
-# App
-app.py contains all the requiered for flask and to manage APIs.
+# 기획 배경
 
+기존 피싱사이트 탐지기는 블랙리스트 / 화이트리시트 기반입니다.
 
+새로운 사이트가 피싱사이트인지 탐지하지 못합니다. 이러한 문제를 해결하기 위해서 프로젝트를 기회하였습니다.
 
-Procedure--
-Open command Prompt and go to given directory and then run python app.py
+# 주요기능
+
+url에서 특징점을 추출합니다.
+
+(도메인 축소 기능 사용 여부, url 길이...)
+
